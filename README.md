@@ -21,6 +21,6 @@ Python, Java
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-<div style="display: flex; justify-content: end;"> ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight)  </div>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight)
 
 
