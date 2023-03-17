@@ -19,7 +19,6 @@ Python, Java
 
 ### Stats
 <p><img align="left" src="https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories" alt="ggrosoave" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy) 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
