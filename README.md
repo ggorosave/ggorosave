@@ -22,4 +22,4 @@ Python, Java
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight" alt="ggrosoave" /></p> 
 
-<p>>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight" alt="ggrosoave" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight" alt="ggrosoave" /></p>
