@@ -11,10 +11,10 @@ Versatile full-stack web developer with a background in education and creative w
 ### Experienced With:
 - HTML, CSS, JavaScript, Bootstrap, Node.js, Express,
 
-### Honing Skills In
+### Honing Skills In:
 - React, Chakra-UI, MySQL, MongoDB/Mongoose, Apollo Server, AWS
 
-### Want to Learn
+### Want to Learn:
 - Python, Java
 
 ### Stats
