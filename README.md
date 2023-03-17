@@ -9,27 +9,18 @@ Versatile full-stack web developer with a background in education and creative w
 ### Check out my portfolio: [grantgorosave.com](https://www.grantgorosave.com/)
 
 ## Experienced With:
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Node.js
-- Express
+HTML, CSS, JavaScript, Bootstrap, Node.js, Express,
 
 ## Honing Skills In
-- React
-- Chakra-UI
-- MySQL
-- MongoDB/Mongoose
-- Apollo Server
-- AWS
+React, Chakra-UI, MySQL, MongoDB/Mongoose, Apollo Server, AWS
 
 ## Want to Learn
-- Python
-- Java
+Python, Java
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy) 
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+
+<div style="text-align: right"> ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight)  </div>
 
 
