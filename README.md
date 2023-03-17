@@ -22,4 +22,4 @@ Versatile full-stack web developer with a background in education and creative w
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight" alt="ggrosoave" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&show_icons=true&theme=tokyonight" alt="ggrosoave" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&show_icons=true&theme=tokyonight&layout=compact" alt="ggrosoave" /></p>
