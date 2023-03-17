@@ -19,5 +19,5 @@ Python, Java
 
 ### Stats
 <div><img align="left" src="https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories" alt="ggrosoave" /></div>
-
+<br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight" alt="ggrosoave" /></p> <p>>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight" alt="ggrosoave" /></p>
