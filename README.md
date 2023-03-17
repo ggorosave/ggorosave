@@ -21,8 +21,4 @@ Python, Java
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight)
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&theme=tokyonight)
