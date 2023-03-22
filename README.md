@@ -20,6 +20,6 @@ Versatile full-stack web developer with a background in education and creative w
 ### Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight" alt="ggrosoave" /></p> 
+<p><img align="left" src="https://github-readme-stats-ggorosave.vercel.app/api?username=ggorosave&hide=stars&theme=tokyonight" alt="ggrosoave" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggorosave&show_icons=true&theme=tokyonight&layout=compact" alt="ggrosoave" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-ggorosave.vercel.app/api/top-langs/?username=ggorosave&show_icons=true&theme=tokyonight&layout=compact" alt="ggrosoave" /></p>
