@@ -13,7 +13,7 @@ Versatile full-stack web developer with a background in education and creative w
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express&theme=dark" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@ Versatile full-stack web developer with a background in education and creative w
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,mysql,mongodb,apollo,aws&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=react,redux,mysql,mongodb,apollo,aws&theme=dark" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Versatile full-stack web developer with a background in education and creative w
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java&theme=tokyonight" />
+    <img src="https://skillicons.dev/icons?i=py,java&theme=dark" />
   </a>
 </p>
 
