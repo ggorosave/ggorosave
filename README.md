@@ -9,7 +9,6 @@ Versatile full-stack web developer with a background in education and creative w
 **Check out my portfolio:** [grantgorosave.com](https://www.grantgorosave.com/)
 
 ### Experienced With:
-- HTML, CSS, JavaScript, Bootstrap, Node.js, Express
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,7 +17,6 @@ Versatile full-stack web developer with a background in education and creative w
 </p>
 
 ### Honing Skills In:
-- React, Chakra-UI, MySQL, MongoDB/Mongoose, Apollo Server, AWS
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -27,7 +25,6 @@ Versatile full-stack web developer with a background in education and creative w
 </p>
 
 ### Want to Learn:
-- Python, Java
 
 <p align="center">
   <a href="https://skillicons.dev">
