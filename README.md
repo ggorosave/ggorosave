@@ -9,13 +9,31 @@ Versatile full-stack web developer with a background in education and creative w
 **Check out my portfolio:** [grantgorosave.com](https://www.grantgorosave.com/)
 
 ### Experienced With:
-- HTML, CSS, JavaScript, Bootstrap, Node.js, Express,
+- HTML, CSS, JavaScript, Bootstrap, Node.js, Express
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express&theme=tokyonight" />
+  </a>
+</p>
 
 ### Honing Skills In:
 - React, Chakra-UI, MySQL, MongoDB/Mongoose, Apollo Server, AWS
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,mysql,mongodb,apollo,aws&theme=tokyonight" />
+  </a>
+</p>
+
 ### Want to Learn:
 - Python, Java
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java&theme=tokyonight" />
+  </a>
+</p>
 
 ### Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ggorosave&theme=tokyonight&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
