@@ -10,7 +10,7 @@ Versatile full-stack web developer with a background in education and creative w
 
 ### Experienced With:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,nodejs,express&theme=dark" />
   </a>
@@ -18,7 +18,7 @@ Versatile full-stack web developer with a background in education and creative w
 
 ### Honing Skills In:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,redux,mysql,mongodb,apollo,aws&theme=dark" />
   </a>
@@ -26,7 +26,7 @@ Versatile full-stack web developer with a background in education and creative w
 
 ### Want to Learn:
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java&theme=dark" />
   </a>
